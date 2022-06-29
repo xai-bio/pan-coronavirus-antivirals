@@ -7,8 +7,7 @@ This repository explores inhibitors that could work on the family of betacoronav
 ### References
 1. Rona, G., Zeke, A., Miwatani-Minter, B. et al. The NSP14/NSP10 RNA repair complex as a Pan-coronavirus therapeutic target. Cell Death Differ 29, 285–292 (2022). [https://doi.org/10.1038/s41418-021-00900-1](https://www.nature.com/articles/s41418-021-00900-1#citeas)
 2. Bazaga, A., Leggate, D. & Weisser, H. Genome-wide investigation of gene-cancer associations for the prediction of novel therapeutic targets in oncology. Sci Rep 10, 10787 (2020). [https://doi.org/10.1038/s41598-020-67846-1](https://www.nature.com/articles/s41598-020-67846-1#citeas)
-3. CS Infect. Dis. 2022, 8, 3, 596–611 Publication Date:February 24, 2022 https://doi.org/10.1021/acsinfecdis.1c00631
-
+3. Brendan T. Freitas, Daniil A. Ahiadorme, Rahul S. Bagul, Ian A. Durie, Samir Ghosh, Jarvis Hill, Naomi E. Kramer, Jackelyn Murray, Brady M. O’Boyle, Emmanuel Onobun, Michael G. Pirrone, Justin D. Shepard, Suzanne Enos, Yagya P. Subedi, Kapil Upadhyaya, Ralph A. Tripp, Brian S. Cummings, David Crich, and Scott D. Pegan ACS Infectious Diseases 2022 8 (3), 596-611 [DOI: 10.1021/acsinfecdis.1c00631](https://pubs.acs.org/doi/full/10.1021/acsinfecdis.1c00631)
 # Our Approach
 Use AI-ML to build mechanistic mathematical models of gene regulatory networks and signalling pathways that support the research of antiviral therapeutics. Provide quantitative, mechanistic and predictive insights into understanding the disease biology and human immunological responses to beta-coronaviruses. Models help us to:
 
