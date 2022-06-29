@@ -7,3 +7,18 @@ This repository explores inhibitors that could work on the family of betacoronav
 ### References
 1. Rona, G., Zeke, A., Miwatani-Minter, B. et al. The NSP14/NSP10 RNA repair complex as a Pan-coronavirus therapeutic target. Cell Death Differ 29, 285–292 (2022). [https://doi.org/10.1038/s41418-021-00900-1](https://www.nature.com/articles/s41418-021-00900-1#citeas)
 2. Bazaga, A., Leggate, D. & Weisser, H. Genome-wide investigation of gene-cancer associations for the prediction of novel therapeutic targets in oncology. Sci Rep 10, 10787 (2020). [https://doi.org/10.1038/s41598-020-67846-1](https://www.nature.com/articles/s41598-020-67846-1#citeas)
+
+# Our Approach
+Use AI-ML to build mechanistic mathematical models of gene regulatory networks and signalling pathways that support the research of antiviral therapeutics. Provide quantitative, mechanistic and predictive insights into understanding the disease biology and human immunological responses to beta-coronaviruses. Models help us to:
+
+* Identify the regulation of immune responses to beta-coronaviruses: understand GRNs immune response mechanisms; identify immune response biomarkers - networks as biomarkers. 
+* Make predictions about the causal regulatory networks controlling immunological responses: in other words, predict regulatory network responses to antivirals, which are likely to activate several innate immune pathways in parallel. 
+* Understand differences in immunological responses through comparative network analysis. Explore why some people are asymptomatic, develop mild or severe symptoms, or succumb to the fatality of beta-coronaviruses.  
+
+With the threat of pandemics omnipresent, we need to build the capability of developing antiviral therapeutics quickly. Quantitative biology AI-ML formulated in the science of complex systems can help us. 
+
+
+
+
+
+
