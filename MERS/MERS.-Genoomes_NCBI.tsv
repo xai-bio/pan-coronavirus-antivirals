@@ -1,0 +1,288 @@
+Nucleotide Accession	Species Taxonomy Id	Species Name	Virus Genus	Virus Family	Isolate Name	Nucleotide Length	Sequence Type	Nuc Completeness	Geo Location	US State	Host Name	Host Taxonomy ID	Collection Date	BioProject	BioSample
+NC_038294.1	1263720	Betacoronavirus England 1	Betacoronavirus	Coronaviridae	H123990006	30111	RefSeq	complete	Europe; United Kingdom			9606	2012-09-11	PRJNA485481	
+NC_019843.3	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	HCoV-EMC/2012	30119	RefSeq	complete				9606	2012-06-13	PRJNA485481	
+OL622036.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	MERS-CoV_Dammam_2019	29994	GenBank	complete	Asia; Saudi Arabia: Dammam			9606	2019-04-03		
+OL622035.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	MERS-CoV_Riyadh_2016	29994	GenBank	complete	Asia; Saudi Arabia: Riyadh			9606	2017-01-03		
+MT387202.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	KNIH_002	30108	GenBank	complete	Asia; South Korea			9606	2015-05-20		
+MN723544.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-18013832/2018	30123	GenBank	complete	Asia; Saudi Arabia			9606	2018-08-30		
+MN723543.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Jeddah-KSA-173RS1570/2017	30120	GenBank	complete	Asia; Saudi Arabia			9606	2017-08-17		
+MN723542.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Jeddah-KSA-173RS1101/2017	30120	GenBank	complete	Asia; Saudi Arabia			9606	2017-08-01		
+MN365233.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30118	GenBank	complete	Asia; Saudi Arabia			9606	2019-02-15		
+
+MN365232.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30118	GenBank	complete	Asia; Saudi Arabia			9606	2019-01-28		
+MN120514.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	013	30118	GenBank	complete	Asia; Saudi Arabia			9606	2019-03-28		
+MN120513.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	016	30118	GenBank	complete	Asia; Saudi Arabia			9606	2019-03-27		
+MK796425.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	KNIH/002_05_2015	30108	GenBank	complete	Asia; South Korea			9606	2015-05-20		
+MK483839.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30118	GenBank	complete	Asia; Saudi Arabia			9606	2018-08-16		
+MK462256.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30118	GenBank	complete	Asia; Saudi Arabia			9606	2018-09-15		
+MK462255.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30052	GenBank	complete	Asia; Saudi Arabia			9606	2018-09-15		
+MK462254.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30118	GenBank	complete	Asia; Saudi Arabia			9606	2018-08-31		
+MK462253.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30118	GenBank	complete	Asia; Saudi Arabia			9606	2018-08-30		
+MK462252.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30118	GenBank	complete	Asia; Saudi Arabia			9606	2018-08-03		
+
+MK462251.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30118	GenBank	complete	Asia; Saudi Arabia			9606	2018-07-18		
+MK462250.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30118	GenBank	complete	Asia; Saudi Arabia			9606	2018-07-12		
+MK462249.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30118	GenBank	complete	Asia; Saudi Arabia			9606	2018-07-09		
+MK462248.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30118	GenBank	complete	Asia; Saudi Arabia			9606	2018-06-13		
+MK462247.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30118	GenBank	complete	Asia; Saudi Arabia			9606	2018-06-08		
+MK462246.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30115	GenBank	complete	Asia; Saudi Arabia			9606	2017-08-17		
+MK462245.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30115	GenBank	complete	Asia; Saudi Arabia			9606	2017-08-15		
+MK462244.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30118	GenBank	complete	Asia; Saudi Arabia			9606	2017-08-07		
+MK462243.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30115	GenBank	complete	Asia; Saudi Arabia			9606	2017-08-01		
+MK280984.2	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Qatar15	30033	GenBank	complete	Asia; Qatar			9606	2015-05-21		
+
+MK129253.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	MERS-CoV/KOR/KCDC/001_2018-TSVi	30150	GenBank	complete	Asia; South Korea			9606	2018-10-20		
+MK052676.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Jordan-201440011858/2014	30123	GenBank	complete	Asia; Jordan			9606	2014-05-23		
+MK039553.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Jordan-201440011858/2014	30123	GenBank	complete	Asia; Jordan			9606	2014-05-23		
+MK039552.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Jordan-201440011123/2014	30123	GenBank	complete	Asia; Jordan			9606	2014-04-21		
+MH822886.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30079	GenBank	complete	Europe; United Kingdom			9606	2018-08-22		
+MH454272.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30119	GenBank	complete	Asia; Saudi Arabia			9606	2016-12-06		
+MH432120.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	2366	30119	GenBank	complete	Asia; Saudi Arabia			9606	2017-02-28		
+MH395139.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	2363	30119	GenBank	complete	Asia; Saudi Arabia			9606	2016-12-04		
+MH310912.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30085	GenBank	complete	Asia; Saudi Arabia			9606	2017-05-15		
+MH310911.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30096	GenBank	complete	Asia; Saudi Arabia			9606	2017-06-06		
+
+MH310910.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30096	GenBank	complete	Asia; Saudi Arabia			9606	2017-06-03		
+MH310909.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30065	GenBank	complete	Asia; Saudi Arabia			9606	2017-05-05		
+MH306207.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30119	GenBank	complete	Asia; Saudi Arabia			9606	2016-08-01		
+MH029552.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-008D3N/2015	30123	GenBank	complete	Asia; Saudi Arabia			9606	2015-08-26		
+MH013216.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30118	GenBank	complete	Asia; Saudi Arabia			9606	2015-10-15		
+MG912608.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30123	GenBank	complete	Asia; Saudi Arabia			9606	2017-06-14		
+MG912607.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30123	GenBank	complete	Asia; Saudi Arabia			9606	2017-06-11		
+MG912606.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30123	GenBank	complete	Asia; Saudi Arabia			9606	2017-06-14		
+MG912605.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30123	GenBank	complete	Asia; Saudi Arabia			9606	2017-06-17		
+MG912604.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30123	GenBank	complete	Asia; Saudi Arabia			9606	2017-06-15		
+
+MG912603.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30123	GenBank	complete	Asia; Saudi Arabia			9606	2017-06-12		
+MG912602.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30123	GenBank	complete	Asia; Saudi Arabia			9606	2017-06-12		
+MG912601.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30123	GenBank	complete	Asia; Saudi Arabia			9606	2017-06-10		
+MG912600.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30123	GenBank	complete	Asia; Saudi Arabia			9606	2017-06-08		
+MG912599.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30123	GenBank	complete	Asia; Saudi Arabia			9606	2017-06-07		
+MG912598.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30123	GenBank	complete	Asia; Saudi Arabia			9606	2017-06-03		
+MG912597.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30123	GenBank	complete	Asia; Saudi Arabia			9606	2017-06-02		
+MG912596.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30123	GenBank	complete	Asia; Saudi Arabia			9606	2017-06-02		
+MG912595.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30123	GenBank	complete	Asia; Saudi Arabia			9606	2017-05-31		
+MG757605.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-036D1N/2016	30096	GenBank	complete	Asia; Saudi Arabia			9606	2016-04-14		
+
+MG757604.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-039D3T/2016	30096	GenBank	complete	Asia; Saudi Arabia			9606	2016-01-31		
+MG757603.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-031D1N/2015	30096	GenBank	complete	Asia; Saudi Arabia			9606	2015-09-18		
+MG757602.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-015D1P/2015	30096	GenBank	complete	Asia; Saudi Arabia			9606	2015-09-01		
+MG757601.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-014D1N/2015	30096	GenBank	complete	Asia; Saudi Arabia			9606	2015-09-01		
+MG757600.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-012D1S/2015	30096	GenBank	complete	Asia; Saudi Arabia			9606	2015-09-01		
+MG757599.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-009D1N/2015	30096	GenBank	complete	Asia; Saudi Arabia			9606	2015-08-26		
+MG757598.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-008D3N/2015	30096	GenBank	complete	Asia; Saudi Arabia			9606	2015-08-26		
+MG757597.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-007D1N/2015	30096	GenBank	complete	Asia; Saudi Arabia			9606	2015-08-24		
+MG757596.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-006D1S/2015	30096	GenBank	complete	Asia; Saudi Arabia			9606	2015-08-24		
+MG757595.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-005D1S/2015	30096	GenBank	complete	Asia; Saudi Arabia			9606	2015-08-24		
+
+MG757594.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-004D1S/2015	30096	GenBank	complete	Asia; Saudi Arabia			9606	2015-08-24		
+MG757593.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-002D1N/2015	30096	GenBank	complete	Asia; Saudi Arabia			9606	2015-08-22		
+MG546331.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30123	GenBank	complete	Asia; Saudi Arabia			9606	2015-10-15		
+MG546330.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30123	GenBank	complete	Asia; Saudi Arabia			9606	2015-10-13		
+MG520076.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-023D3N/2015	30096	GenBank	complete	Asia; Saudi Arabia			9606	2015-10-15		
+MG520075.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-023D1N/2015	30096	GenBank	complete	Asia; Saudi Arabia			9606	2015-10-13		
+MG366883.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30123	GenBank	complete	Asia; Saudi Arabia			9606	2015-06-15		
+MG366882.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30123	GenBank	complete	Asia; Saudi Arabia			9606	2015-06-07		
+MG366881.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30123	GenBank	complete	Asia; Saudi Arabia			9606	2015-06-07		
+MG366880.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30123	GenBank	complete	Asia; Saudi Arabia			9606	2015-06-02		
+
+MG366483.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-7413/2017	30096	GenBank	complete	Asia; Saudi Arabia			9606	2017-06-02		
+MG011362.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-K37029157/2016	30096	GenBank	complete	Asia; Saudi Arabia			9606	2016-12-25		
+MG011361.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-K17000405/2017	30096	GenBank	complete	Asia; Saudi Arabia			9606	2017-01-10		
+MG011360.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-K17000887/2017	30096	GenBank	complete	Asia; Saudi Arabia			9606	2017-01-23		
+MG011359.2	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-16559/2016	30096	GenBank	complete	Asia; Saudi Arabia			9606	2016-03-29		
+MG011358.2	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-24241/2016	30096	GenBank	complete	Asia; Saudi Arabia			9606	2016-09-21		
+MG011357.2	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-24244/2016	30096	GenBank	complete	Asia; Saudi Arabia			9606	2016-09-21		
+MG011356.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-21891/2016	30096	GenBank	complete	Asia; Saudi Arabia			9606	2016-07-12		
+MG011355.2	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-21155/2016	30096	GenBank	complete	Asia; Saudi Arabia			9606	2016-07-01		
+MG011354.2	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-20570/2016	30096	GenBank	complete	Asia; Saudi Arabia			9606	2016-06-16		
+
+MG011353.2	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-19949/2016	30096	GenBank	complete	Asia; Saudi Arabia			9606	2016-06-01		
+MG011352.2	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Qasim-KSA-893/2016	30096	GenBank	complete	Asia; Saudi Arabia			9606	2016-07-20		
+MG011351.2	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Madinah-KSA-390/2016	30096	GenBank	complete	Asia; Saudi Arabia			9606	2016-04-10		
+MG011350.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-16849/2016	30096	GenBank	complete	Asia; Saudi Arabia			9606	2016-04-04		
+MG011349.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-17382/2016	30096	GenBank	complete	Asia; Saudi Arabia			9606	2016-04-13		
+MG011348.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-17756/2016	30096	GenBank	complete	Asia; Saudi Arabia			9606	2016-04-18		
+MG011347.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-14670/2016	30096	GenBank	complete	Asia; Saudi Arabia			9606	2016-03-13		
+MG011346.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-14949/2016	30096	GenBank	complete	Asia; Saudi Arabia			9606	2016-03-14		
+MG011345.2	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-15385/2016	30096	GenBank	complete	Asia; Saudi Arabia			9606	2016-03-18		
+MG011344.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-14675/2016	30096	GenBank	complete	Asia; Saudi Arabia			9606	2016-03-13		
+
+MG011343.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-14607/2016	30096	GenBank	complete	Asia; Saudi Arabia			9606	2016-03-12		
+MG011342.2	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-13984/2016	30096	GenBank	complete	Asia; Saudi Arabia			9606	2016-03-07		
+MG011341.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Qasim-KSA-13922/2016	30096	GenBank	complete	Asia; Saudi Arabia			9606	2016-03-06		
+MG011340.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-13798/2016	30096	GenBank	complete	Asia; Saudi Arabia			9606	2016-03-05		
+MF000460.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Amman-Jordan-12716/2015	30045	GenBank	complete	Asia; Jordan			9606	2015-08-30		
+MF000459.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Amman-Jordan-12918/2015	30018	GenBank	complete	Asia; Jordan			9606	2015-09-07		
+MF000458.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Amman-Jordan-13030/2015	30045	GenBank	complete	Asia; Jordan			9606	2015-09-19		
+MF000457.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Amman-Jordan-12641/2015	30001	GenBank	complete	Asia; Jordan			9606	2015-08-25		
+KY688124.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30102	GenBank	complete	Asia; Saudi Arabia			9606	2015-05-20		
+KY688123.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30102	GenBank	complete	Asia; Saudi Arabia			9606	2015-05-13		
+
+KY688122.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30059	GenBank	complete	Asia; Saudi Arabia			9606	2015-05-27		
+KY688121.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30039	GenBank	complete	Asia; Saudi Arabia			9606	2015-05-22		
+KY688120.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30102	GenBank	complete	Asia; Saudi Arabia			9606	2015-05-10		
+KY688119.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30061	GenBank	complete	Asia; Saudi Arabia			9606	2015-05-01		
+KY688118.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30075	GenBank	complete	Asia; Saudi Arabia			9606	2015-02-07		
+KY673148.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30123	GenBank	complete	Asia; Oman			9606	2015-01-06		
+KY581694.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30123	GenBank	complete	Asia; United Arab Emirates			9606	2014		
+KY581693.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30123	GenBank	complete	Asia; United Arab Emirates			9606	2014-04-20		
+KY581692.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30123	GenBank	complete	Asia; United Arab Emirates			9606	2014-04-15		
+KY581691.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30123	GenBank	complete	Asia; United Arab Emirates			9606	2014-04-14		
+
+KY581690.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30123	GenBank	complete	Asia; United Arab Emirates			9606	2014-04-12		
+KY581689.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30123	GenBank	complete	Asia; United Arab Emirates			9606	2014-04-10		
+KY581688.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30123	GenBank	complete	Asia; United Arab Emirates			9606	2014-04-10		
+KY581687.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30123	GenBank	complete	Asia; United Arab Emirates			9606	2013-12-23		
+KY581686.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30123	GenBank	complete	Asia; United Arab Emirates			9606	2014-04-10		
+KY581685.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30123	GenBank	complete	Asia; United Arab Emirates			9606	2013-07-12		
+KY581684.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30123	GenBank	complete	Asia; United Arab Emirates			9606	2013-07-10		
+KX154694.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Artawiyah-KSA-13328/2016	30096	GenBank	complete	Asia; Saudi Arabia			9606	2016-02-29		
+KX154693.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-13127/2016	30096	GenBank	complete	Asia; Saudi Arabia			9606	2016-02-29		
+KX154692.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-12969/2016	30096	GenBank	complete	Asia; Saudi Arabia			9606	2016-02-27		
+
+KX154691.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-12832/2016	30096	GenBank	complete	Asia; Saudi Arabia			9606	2016-02-25		
+KX154690.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Jeddah-KSA-161RS1146/2016	30096	GenBank	complete	Asia; Saudi Arabia			9606	2016-01		
+KX154689.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-10208/2016	30096	GenBank	complete	Asia; Saudi Arabia			9606	2016-01		
+KX154688.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-12160/2016	30096	GenBank	complete	Asia; Saudi Arabia			9606	2016-02		
+KX154687.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-11958/2016	30096	GenBank	complete	Asia; Saudi Arabia			9606	2016-02		
+KX154686.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-11898/2016	30096	GenBank	complete	Asia; Saudi Arabia			9606	2016-02		
+KX154685.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-11740/2016	30096	GenBank	complete	Asia; Saudi Arabia			9606	2016-02		
+KX154684.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-11739/2016	30096	GenBank	complete	Asia; Saudi Arabia			9606	2016-02		
+KX034100.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	MERS-CoV/KOR/Seoul/177-3-2015	30118	GenBank	complete	Asia; South Korea			9606	2015-07-03		
+KX034099.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	MERS-CoV/KOR/Seoul/169-2015	30110	GenBank	complete	Asia; South Korea			9606	2015-06-26		
+
+KX034098.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	MERS-CoV/KOR/Seoul/162-1-2015	30106	GenBank	complete	Asia; South Korea			9606	2015-06-22		
+KX034097.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	MERS-CoV/KOR/Seoul/080-3-2015	30118	GenBank	complete	Asia; South Korea			9606	2015-06-17		
+KX034096.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	MERS-CoV/KOR/Seoul/077-2-2015	30082	GenBank	complete	Asia; South Korea			9606	2015-06-17		
+KX034095.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	MERS-CoV/KOR/Seoul/066-2015	30118	GenBank	complete	Asia; South Korea			9606	2015-06-04		
+KX034094.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	MERS-CoV/KOR/Seoul/050-1-2015	30111	GenBank	complete	Asia; South Korea			9606	2015-06-11		
+KU851864.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-16098/2015	30096	GenBank	complete	Asia; Saudi Arabia			9606	2015-08-24		
+KU851863.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-16077/2015	30096	GenBank	complete	Asia; Saudi Arabia			9606	2015-08-27		
+KU851862.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-16117/2015	30096	GenBank	complete	Asia; Saudi Arabia			9606	2015-08-24		
+KU851861.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-16120/2015	30096	GenBank	complete	Asia; Saudi Arabia			9606	2015-08-24		
+KU851860.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-16121/2015	30096	GenBank	complete	Asia; Saudi Arabia			9606	2015-08-24		
+
+KU851859.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Jeddah-KSA-3RS2702/2015	30076	GenBank	complete	Asia; Saudi Arabia			9606	2015-07-12		
+KU710265.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Taif/KSA-7032/2014/S530del	29566	GenBank	complete	Asia; Saudi Arabia			9606	2014-11-04		
+KU710264.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Taif/KSA-7032/2014	30096	GenBank	complete	Asia; Saudi Arabia			9606	2014-11-04		
+KU308549.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Korea/Seoul/SNU1-035/2015	30119	GenBank	complete	Asia; South Korea			9606	2015-06-08		
+KT861628.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Jordan-201440011123/2014	30096	GenBank	complete	Asia; Jordan			9606	2014-04-21		
+KT861627.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Jordan-20140010168/2014	30089	GenBank	complete	Asia; Jordan			9606	2014-01-22		
+KT806055.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Jeddah-KSA-C20860/2015	30096	GenBank	complete	Asia; Saudi Arabia			9606	2015-02-10		
+KT806054.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Najran-KSA-C20915/2015	29695	GenBank	complete	Asia; Saudi Arabia			9606	2015-02-13		
+KT806053.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Kharj-KSA-2598/2015	30096	GenBank	complete	Asia; Saudi Arabia			9606	2015-02-02		
+KT806052.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Kharj-KSA-2599/2015	30096	GenBank	complete	Asia; Saudi Arabia			9606	2015-02-02		
+
+KT806051.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-2716/2015	30096	GenBank	complete	Asia; Saudi Arabia			9606	2015-02-05		
+KT806049.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh-KSA-3181/2015	30096	GenBank	complete	Asia; Saudi Arabia			9606	2015-02-15		
+KT806048.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Khobar-KSA-6736/2015	30096	GenBank	complete	Asia; Saudi Arabia			9606	2015-02-07		
+KT806047.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Hufuf-KSA-9158/2015	30087	GenBank	complete	Asia; Saudi Arabia			9606	2015-03-27		
+KT806046.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Hufuf-KSA-11002/2015	30096	GenBank	complete	Asia; Saudi Arabia			9606	2015-05-10		
+KT806045.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Jeddah-KSA-C21271/2015	30096	GenBank	complete	Asia; Saudi Arabia			9606	2015-02-22		
+KT806044.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Jeddah-KSA-C20843/2015	30096	GenBank	complete	Asia; Saudi Arabia			9606	2015-02-09		
+KT374057.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	KOREA/Seoul/168-2-2015	29831	GenBank	complete	Asia; South Korea			9606	2015-06-24		
+KT374056.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	KOREA/Seoul/168-1-2015	29831	GenBank	complete	Asia; South Korea			9606	2015-06-21		
+KT374055.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	KOREA/Seoul/035-2-2015	29831	GenBank	complete	Asia; South Korea			9606	2015-06-18		
+
+KT374054.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	KOREA/Seoul/035-1-2015	29831	GenBank	complete	Asia; South Korea			9606	2015-06-03		
+KT374053.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	KOREA/Seoul/014-2-2015	29831	GenBank	complete	Asia; South Korea			9606	2015-06-13		
+KT374052.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	KOREA/Seoul/014-1-2015	29831	GenBank	complete	Asia; South Korea			9606	2015-05-31		
+KT374051.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	KOREA/Seoul/163-1-2015	29831	GenBank	complete	Asia; South Korea			9606	2015-06-19		
+KT374050.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	KOREA/Seoul/163-2-2015	29831	GenBank	complete	Asia; South Korea			9606	2015-06-29		
+KT326819.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	MERS-CoV/KOR/KNIH/001_05_2015	29995	GenBank	complete	Asia; South Korea			9606	2015-05-22		
+KT225476.2	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	MERS-CoV/THA/CU/17_06_2015	29809	GenBank	complete	Asia; Thailand			9606	2015-06-17		
+KT156561.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30123	GenBank	complete	Asia; Oman			9606	2013-12-28		
+KT156560.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30123	GenBank	complete	Asia; Oman			9606	2013-10-28		
+KT121581.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	KFMC-7	29751	GenBank	complete	Asia; Saudi Arabia			9606	2014-05-03		
+
+KT121580.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	KFMC-1	29799	GenBank	complete	Asia; Saudi Arabia			9606	2014-04-28		
+KT121579.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	KFMC-8	29751	GenBank	complete	Asia; Saudi Arabia			9606	2014-04-30		
+KT121578.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	KFMC-10	29785	GenBank	complete	Asia; Saudi Arabia			9606	2014-05-01		
+KT121577.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	KFMC-2	29896	GenBank	complete	Asia; Saudi Arabia			9606	2014-05-11		
+KT121576.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	KFMC-6	29896	GenBank	complete	Asia; Saudi Arabia			9606	2014-05-18		
+KT121575.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	KFMC-4	29896	GenBank	complete	Asia; Saudi Arabia			9606	2014-05-12		
+KT121574.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	KFMC-9	29896	GenBank	complete	Asia; Saudi Arabia			9606	2014-05-07		
+KT121573.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	KFMC-3	29896	GenBank	complete	Asia; Saudi Arabia			9606	2014-05-09		
+KT121572.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	KFMC-5	29896	GenBank	complete	Asia; Saudi Arabia			9606	2014-05-12		
+KT029139.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	MERS-CoV/KOR/KNIH/002_05_2015	30108	GenBank	complete	Asia; South Korea			9606	2015-05-20		
+
+KT026456.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh_KSA_4050_2015	30120	GenBank	complete	Asia; Saudi Arabia			9606	2015-03-01		
+KT026455.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu/Riyadh_KSA_2959_2015	30114	GenBank	complete	Asia; Saudi Arabia			9606	2015-02-10		
+KT026454.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30123	GenBank	complete	Asia; Saudi Arabia			9606	2015-03-01		
+KT026453.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30114	GenBank	complete	Asia; Saudi Arabia			9606	2015-02-10		
+KT006149.2	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30114	GenBank	complete	Asia; China			9606	2015-05-27		
+KR011266.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30096	GenBank	complete	Asia; Saudi Arabia			9606	2015-01-06		
+KR011265.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30096	GenBank	complete	Asia; Saudi Arabia			9606	2015-01-26		
+KR011264.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30096	GenBank	complete	Asia; Saudi Arabia			9606	2015-01-21		
+KR011263.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30096	GenBank	complete	Asia; Saudi Arabia			9606	2015-01-21		
+KP223131.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Florida/USA-2_Saudi Arabia_2014	30123	GenBank	complete	North America; USA			9606	2014-06		
+
+KP209313.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30123	GenBank	complete	Asia; United Arab Emirates			9606	2014-04-13		
+KP209312.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30123	GenBank	complete	Asia; United Arab Emirates			9606	2013-11-15		
+KP209311.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30123	GenBank	complete	Asia; United Arab Emirates			9606	2014-04-17		
+KP209310.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30123	GenBank	complete	Asia; United Arab Emirates			9606	2014-03-07		
+KP209309.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30123	GenBank	complete	Asia; United Arab Emirates			9606	2014-04-19		
+KP209308.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30123	GenBank	complete	Asia; United Arab Emirates			9606	2014-04-10		
+KP209307.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30123	GenBank	complete	Asia; United Arab Emirates			9606	2014-04-10		
+KP209306.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30123	GenBank	complete	Asia; United Arab Emirates			9606	2014-04-07		
+KM210278.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	England/3/2013	30035	GenBank	complete	Europe; United Kingdom			9606	2013-02-10		
+KM210277.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	England/4/2013	30031	GenBank	complete	Europe; United Kingdom			9606	2013-02-13		
+
+KM027262.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Riyadh_2014KSA_683/KSA/2014	29896	GenBank	complete	Asia; Saudi Arabia			9606	2014-04-22		
+KM027261.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Makkah_C9355/KSA/Makkah/2014-04-15	29809	GenBank	complete	Asia; Saudi Arabia			9606	2014-04-15		
+KM027260.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Jeddah_C10306/KSA/2014-04-20	29874	GenBank	complete	Asia; Saudi Arabia			9606	2014-04-21		
+KM027259.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Jeddah_C9055/KSA/2014-04-14	29918	GenBank	complete	Asia; Saudi Arabia			9606	2014-04-14		
+KM027258.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Jeddah_C8826/KSA/2014-04-12	29809	GenBank	complete	Asia; Saudi Arabia			9606	2014-04-12		
+KM027257.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Jeddah_C7770/KSA/2014-04-07	29774	GenBank	complete	Asia; Saudi Arabia			9606	2014-04-07		
+KM027256.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Jeddah_C7569/KSA/2014-04-03	29918	GenBank	complete	Asia; Saudi Arabia			9606	2014		
+KM027255.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Jeddah_C7149/KSA/2014-04-05	29919	GenBank	complete	Asia; Saudi Arabia			9606	2014		
+KM015348.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	England/2/2013	30042	GenBank	complete	Europe; United Kingdom			9606	2013-02-10		
+KJ829365.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30123	GenBank	complete	North America; USA			9606	2014-05-10		
+
+KJ813439.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30123	GenBank	complete	North America; USA			9606	2014-04-30		
+KJ556336.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Jeddah_1_2013	29890	GenBank	complete	Asia; Saudi Arabia			9606	2013-11-06		
+KJ361503.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu-France - FRA2_130569-2013_Isolate_Sanger	30040	GenBank	complete	Europe; France			9606	2013-05-07		
+KJ361502.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu-France - FRA2_130569-2013_InSpu_Sanger	29783	GenBank	complete	Europe; France			9606	2013-05-07		
+KJ361501.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu-France - FRA2_130569-2013_IS_HTS	29880	GenBank	complete	Europe; France			9606	2013-05-07		
+KJ361500.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hu-France (UAE) - FRA1_1627-2013_BAL_Sanger	29267	GenBank	complete	Europe; France			9606	2013-04-26		
+KJ156952.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Riyadh_4_2013	30054	GenBank	complete	Asia; Saudi Arabia			9606	2013-03-01		
+KJ156949.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Taif_1_2013	30055	GenBank	complete	Asia; Saudi Arabia			9606	2013-06-12		
+KJ156944.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Riyadh_5_2013	30055	GenBank	complete	Asia; Saudi Arabia			9606	2013-07-02		
+KJ156934.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Riyadh_14_2013	30055	GenBank	complete	Asia; Saudi Arabia			9606	2013-08-15		
+
+KJ156910.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hafr-Al-Batin_2_2013	30055	GenBank	complete	Asia; Saudi Arabia			9606	2013-08-05		
+KJ156881.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Wadi-Ad-Dawasir_1_2013	30055	GenBank	complete	Asia; Saudi Arabia			9606	2013-06-12		
+KJ156874.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hafr-Al-Batin_6_2013	30055	GenBank	complete	Asia; Saudi Arabia			9606	2013-08-28		
+KJ156869.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Riyadh_9_2013	30055	GenBank	complete	Asia; Saudi Arabia			9606	2013-07-17		
+KJ156866.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Al-Hasa_25_2013	30054	GenBank	complete	Asia; Saudi Arabia			9606	2013-05-02		
+KF961222.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Qatar4	30086	GenBank	complete	Asia; Qatar			9606	2013-10-17		
+KF961221.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Qatar3	30090	GenBank	complete	Asia; Qatar			9606	2013-10-13		
+KF958702.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	MERS-CoV-Jeddah-human-1	29851	GenBank	complete	Asia; Saudi Arabia			9606	2013-11-05		
+KF745068.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	FRA/UAE	29901	GenBank	complete	Europe; France			9606	2013-05-07		
+KF600652.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Riyadh_2_2012	30082	GenBank	complete	Asia; Saudi Arabia			9606	2012-10-30		
+
+KF600651.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Al-Hasa_18_2013	30105	GenBank	complete	Asia; Saudi Arabia			9606	2013-05-23		
+KF600647.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Al-Hasa_17_2013	30115	GenBank	complete	Asia; Saudi Arabia			9606	2013-05-15		
+KF600645.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Al-Hasa_15_2013	30071	GenBank	complete	Asia; Saudi Arabia			9606	2013-05-11		
+KF600644.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Al-Hasa_16_2013	30078	GenBank	complete	Asia; Saudi Arabia			9606	2013-05-12		
+KF600634.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Al-Hasa_21_2013	30063	GenBank	complete	Asia; Saudi Arabia			9606	2013-05-30		
+KF600632.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Al-Hasa_19_2013	30108	GenBank	complete	Asia; Saudi Arabia			9606	2013-05-23		
+KF600630.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Buraidah_1_2013	30081	GenBank	complete	Asia; Saudi Arabia			9606	2013-05-13		
+KF600628.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Hafr-Al-Batin_1_2013	30104	GenBank	complete	Asia; Saudi Arabia			9606	2013-06-04		
+KF600627.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Al-Hasa_12_2013	30076	GenBank	complete	Asia; Saudi Arabia			9606	2013-05-07		
+KF600620.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Bisha_1_2012	30056	GenBank	complete	Asia; Saudi Arabia			9606	2012-06-19		
+
+KF600613.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Riyadh_3_2013	30064	GenBank	complete	Asia; Saudi Arabia			9606	2013-02-05		
+KF600612.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Riyadh_1_2012	30063	GenBank	complete	Asia; Saudi Arabia			9606	2012-10-23		
+KF192507.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae		30123	GenBank	complete	Asia; United Arab Emirates			9606	2013		
+KF186567.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Al-Hasa_1_2013	30117	GenBank	complete	Asia; Saudi Arabia			9606	2013-05-09		
+KF186566.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Al-Hasa_2_2013	30113	GenBank	complete	Asia; Saudi Arabia			9606	2013-04-21		
+KF186565.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Al-Hasa_3_2013	30069	GenBank	complete	Asia; Saudi Arabia			9606	2013-04-22		
+KF186564.1	1335626	Middle East respiratory syndrome-related coronavirus	Betacoronavirus	Coronaviridae	Al-Hasa_4_2013	30081	GenBank	complete	Asia; Saudi Arabia			9606	2013-05-01		
+KC776174.1	1306931	Human betacoronavirus 2c Jordan-N3/2012	Betacoronavirus	Coronaviridae		30030	GenBank	complete	Asia; Jordan			9606	2012-04		
+KC667074.1	1298362	Human betacoronavirus 2c England-Qatar/2012	Betacoronavirus	Coronaviridae	England/Qatar/2012	30112	GenBank	complete	Europe; United Kingdom: England			9606	2012-09-19		
+KC164505.2	1263720	Betacoronavirus England 1	Betacoronavirus	Coronaviridae	H123990006	30111	GenBank	complete	Europe; United Kingdom			9606	2012-09-11		
+
+JX869059.2	1235996	Human betacoronavirus 2c EMC/2012	Betacoronavirus	Coronaviridae		30119	GenBank	complete				9606	2012-06-13		
+
