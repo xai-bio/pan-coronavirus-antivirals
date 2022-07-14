@@ -1,4 +1,4 @@
-# Modelling of Pan-Coronavirus Antivirals Small Molecule Candidates 
+# Modelling Pan-Coronavirus Antivirals Candidates 
 ![my image](Images/BetacoronavirusesResearchGraphic.png)
 
 This repository is the culmination of collaborative research on COVID-19 with researchers from the University of Antioquia and the Jenner Institute, University of Oxford. Research is taking on a new direction, prototyping computational biophysics algorithms that facilitate the development of pan-coronavirus antivirals. Reflecting our research on evaluating and advancing the current state-of-the-art in AI - e.g. generative biology - this repository also complements our work on developing globally accessible novel COVID-19 antiviral therapeutics.
