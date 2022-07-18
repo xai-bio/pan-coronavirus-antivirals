@@ -24,7 +24,7 @@ With the threat of pandemics omnipresent, we need to build the capability of dev
 
 ## Technology Stack 
 
-XAI-BiO is building a technology stack for scientific research and engineering biology. Outlined is a technology stack for this project:
+Outlined is XAI-BiO's scientific research and engineering biology technology stack for this project:
 
 * **AI**: SciML Algorithms developed by XAI-BiO
 * **Bioinformatics**: PyPDB, Biotite, Bioconductor
