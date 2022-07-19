@@ -1,5 +1,5 @@
 # Modelling Pan-Coronavirus Antivirals Candidates 
-![my image](Images/BetacoronavirusesResearchGraphic.png)
+![my image](images/BetacoronavirusesResearchGraphic.png)
 
 This repository contains exploratory research to model pan-coronavirus antivirals small-molecule candidates. Providing some of our code and data, the project is the culmination of collaborative research on COVID-19 with researchers from the University of Antioquia and the Jenner Institute, University of Oxford. Research is taking on a new direction, prototyping computational biophysics algorithms that facilitate the development of pan-coronavirus antivirals. The repository also reflects our research on evaluating and advancing the current state-of-the-art in AI - e.g. generative biology.
 ### COVID Moonshot
